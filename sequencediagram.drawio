@@ -1,0 +1,172 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="dsUI5o-g-IrJbpUOYZP2">
+    <mxGraphModel dx="820" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-10" edge="1" parent="1" source="3l-KisvH_7vyMIH1X0Dn-1" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;fontColor=#1D3557;defaultLabelBackgroundColor=page;" target="3l-KisvH_7vyMIH1X0Dn-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-11" connectable="0" parent="3l-KisvH_7vyMIH1X0Dn-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontColor=#1D3557;defaultLabelBackgroundColor=page;" value="login()&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1866" y="-1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-17" edge="1" parent="1" source="3l-KisvH_7vyMIH1X0Dn-1" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;fontColor=#1D3557;defaultLabelBackgroundColor=page;" target="3l-KisvH_7vyMIH1X0Dn-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-18" connectable="0" parent="3l-KisvH_7vyMIH1X0Dn-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontColor=#1D3557;defaultLabelBackgroundColor=page;" value="selectSpecialty()&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2811" y="1" as="geometry">
+            <mxPoint x="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-25" edge="1" parent="1" source="3l-KisvH_7vyMIH1X0Dn-1" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;fontColor=#1D3557;defaultLabelBackgroundColor=page;" target="3l-KisvH_7vyMIH1X0Dn-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="122.5" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-26" connectable="0" parent="3l-KisvH_7vyMIH1X0Dn-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontColor=#1D3557;defaultLabelBackgroundColor=page;" value="selectTimeSlot()&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2214" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Patient" vertex="1">
+          <mxGeometry height="300" width="100" x="6" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-12" edge="1" parent="1" source="3l-KisvH_7vyMIH1X0Dn-2" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;fontColor=#1D3557;defaultLabelBackgroundColor=page;" target="3l-KisvH_7vyMIH1X0Dn-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-13" connectable="0" parent="3l-KisvH_7vyMIH1X0Dn-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontColor=#1D3557;defaultLabelBackgroundColor=page;" value="verifyUser()&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0906" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-19" edge="1" parent="1" source="3l-KisvH_7vyMIH1X0Dn-2" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;fontColor=#1D3557;defaultLabelBackgroundColor=page;" target="3l-KisvH_7vyMIH1X0Dn-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-20" connectable="0" parent="3l-KisvH_7vyMIH1X0Dn-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontColor=#1D3557;defaultLabelBackgroundColor=page;" value="searchDoctor()&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2241" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-21" edge="1" parent="1" source="3l-KisvH_7vyMIH1X0Dn-2" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;fontColor=#1D3557;defaultLabelBackgroundColor=page;" target="3l-KisvH_7vyMIH1X0Dn-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-22" connectable="0" parent="3l-KisvH_7vyMIH1X0Dn-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontColor=#1D3557;defaultLabelBackgroundColor=page;" value="getAvailableSlots()&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.55" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-27" edge="1" parent="1" source="3l-KisvH_7vyMIH1X0Dn-2" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;fontColor=#1D3557;defaultLabelBackgroundColor=page;" target="3l-KisvH_7vyMIH1X0Dn-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-28" connectable="0" parent="3l-KisvH_7vyMIH1X0Dn-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontColor=#1D3557;defaultLabelBackgroundColor=page;" value="saveAppointment()&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.4464" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-31" edge="1" parent="1" source="3l-KisvH_7vyMIH1X0Dn-2" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;fontColor=#1D3557;defaultLabelBackgroundColor=page;" target="3l-KisvH_7vyMIH1X0Dn-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-32" connectable="0" parent="3l-KisvH_7vyMIH1X0Dn-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontColor=#1D3557;defaultLabelBackgroundColor=page;" value="sendConfirmation()&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.4833" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Damumed System&amp;nbsp;" vertex="1">
+          <mxGeometry height="290" width="100" x="140" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Doctor" vertex="1">
+          <mxGeometry height="300" width="100" x="314" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-23" edge="1" parent="1" source="3l-KisvH_7vyMIH1X0Dn-4" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;fontColor=#1D3557;defaultLabelBackgroundColor=page;" target="3l-KisvH_7vyMIH1X0Dn-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-24" connectable="0" parent="3l-KisvH_7vyMIH1X0Dn-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontColor=#1D3557;defaultLabelBackgroundColor=page;" value="availableSlots()&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1056" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Schedule" vertex="1">
+          <mxGeometry height="300" width="100" x="440" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-14" edge="1" parent="1" source="3l-KisvH_7vyMIH1X0Dn-5" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;fontColor=#1D3557;defaultLabelBackgroundColor=page;" target="3l-KisvH_7vyMIH1X0Dn-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-16" connectable="0" parent="3l-KisvH_7vyMIH1X0Dn-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontColor=#1D3557;defaultLabelBackgroundColor=page;" value="userVerified()" vertex="1">
+          <mxGeometry relative="1" x="-0.6341" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-29" edge="1" parent="1" source="3l-KisvH_7vyMIH1X0Dn-5" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;fontColor=#1D3557;defaultLabelBackgroundColor=page;" target="3l-KisvH_7vyMIH1X0Dn-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414.0000000000002" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-30" connectable="0" parent="3l-KisvH_7vyMIH1X0Dn-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontColor=#1D3557;defaultLabelBackgroundColor=page;" value="appointmentSaved()&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.5572" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-5" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Database" vertex="1">
+          <mxGeometry height="300" width="100" x="600" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-34" edge="1" parent="1" source="3l-KisvH_7vyMIH1X0Dn-6" style="edgeStyle=sequenceEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=0;curved=0;fontColor=#1D3557;defaultLabelBackgroundColor=page;" target="3l-KisvH_7vyMIH1X0Dn-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-36" connectable="0" parent="3l-KisvH_7vyMIH1X0Dn-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontColor=#1D3557;defaultLabelBackgroundColor=page;" value="appointmentConfirmed()&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.8058" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3l-KisvH_7vyMIH1X0Dn-6" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Notification" vertex="1">
+          <mxGeometry height="300" width="100" x="720" y="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
