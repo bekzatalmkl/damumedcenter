@@ -16,7 +16,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         AppointmentService service = new AppointmentService();
-        FileStorage storage = new CsvFileStorage("appointments.csv");
+        FileStorage storage = new CsvFileStorage("data/appointments.csv");
 
         Admin admin = new Admin(
         1,
