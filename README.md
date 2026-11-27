@@ -12,7 +12,7 @@ mvn test
 java -cp target/classes kz.damumed.Main
 
 Экран суреттері
-![Негізгі мәзір](docs/screenshots/menu.png)
+![Негізгі мәзір](docs/screenshots/menu.jpeg)
 
 UML диаграммалар
 docs/uml/ папкасында: use-case, class, sequence, activity.
